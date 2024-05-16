@@ -1,4 +1,4 @@
-# Mathematics and Machine_Learning
+# Mathematics and Machine Learning
 Repository aimed at explaining the mathematical concepts covered in machine learning algorithms
 
 <p align="center">
