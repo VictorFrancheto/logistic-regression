@@ -16,4 +16,4 @@ Repository aimed at explaining the mathematical concepts covered in machine lear
 
 
 ## Projects:
-* Explorando a Transformação Logarítimica na Regularização dos Dados (scale_log.ipynb). [Matéria no Medium](http://surl.li/rdnso)
+* Escrever algo (scale_log.ipynb). [Matéria no Medium](http://surl.li/rdnso)
