@@ -2,7 +2,7 @@
 Repository aimed at explaining the mathematical concepts covered in machine learning algorithms
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/My_Projects/blob/main/machine.jpg" >
+  <img src="https://github.com/VictorFrancheto/My_Projects/blob/main/machine.JPG" >
 </p>
 
 # Victor Hugo Francheto
