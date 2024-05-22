@@ -16,4 +16,4 @@ Repository aimed at explaining the mathematical concepts covered in machine lear
 
 
 ## Projects:
-* Escrever algo (logistic_regression.ipynb). [Matéria no Medium](http://surl.li/rdnso)
+* A Mathematical Approach to the Logistic Regression Model (logistic_regression.ipynb). [Matéria no Medium](http://surl.li/rdnso)
