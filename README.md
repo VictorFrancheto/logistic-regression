@@ -8,7 +8,7 @@ Repository aimed at explaining the mathematical concepts covered in machine lear
 # Victor Hugo Francheto
 **Data Scientist**
 
-**Background in:** Python, SQL , R, Power Bi, Advanced Mathematics, Complex Networks, Deep Learning and Machine Learning
+**Background in:** Python, SQL , R, Power Bi, Advanced Mathematics, Complex Networks, Deep Learning and Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/victor-hugo-francheto-a600501a1/)
