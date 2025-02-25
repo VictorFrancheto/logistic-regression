@@ -1,5 +1,5 @@
-# Mathematics and Machine Learning
-Repository aimed at explaining the mathematical concepts covered in machine learning algorithms.
+# Logistic Regression: A Mathematical Approach
+Repository aimed at explaining the mathematical concepts behind the logistic regression model.
 
 <p align="center">
   <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/machine.JPG">
