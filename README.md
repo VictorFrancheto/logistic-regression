@@ -22,8 +22,8 @@ Mathematically, given an input feature vector \( x \), the model computes:
 $$ P(y=1 | x) = \sigma(w^T x + b), $$
 
 where:
-✔ \( w \) = weight vector (learned parameters)
-✔ \( b \) = bias term
+✔ \( w \) = weight vector (learned parameters)\
+✔ \( b \) = bias term\
 ✔ \( \sigma(z) \) = **sigmoid function**:
 
    $$ \sigma(z) = \frac{1}{1 + e^{-z}}. $$
