@@ -73,9 +73,9 @@ The goal is to find the **best parameters** $w$ and $b$ that minimize classifica
 
 Logistic Regression is evaluated using several metrics:
 
-✔ **Accuracy**: Measures overall correctness.
-✔ **Precision & Recall**: Handle imbalanced datasets.
-✔ **F1-Score**: Harmonic mean of precision and recall.
+✔ **Accuracy**: Measures overall correctness.\
+✔ **Precision & Recall**: Handle imbalanced datasets.\
+✔ **F1-Score**: Harmonic mean of precision and recall.\
 ✔ **ROC Curve & AUC**: Assess probability calibration.
 
 ---
