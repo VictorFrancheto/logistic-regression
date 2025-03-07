@@ -80,8 +80,8 @@ Logistic Regression is evaluated using several metrics:
 
 ## ⚠️ Key Considerations
 
-📌 **Feature Scaling**: Since weights are optimized via gradient descent, it’s essential to normalize features.
-📌 **Overfitting**: Regularization techniques like **L2 (Ridge Regression)** prevent overfitting.
+📌 **Feature Scaling**: Since weights are optimized via gradient descent, it’s essential to normalize features.\
+📌 **Overfitting**: Regularization techniques like **L2 (Ridge Regression)** prevent overfitting.\
 📌 **Linearity Assumption**: Logistic Regression assumes a **linear relationship** between input features and log-odds.
 
 
