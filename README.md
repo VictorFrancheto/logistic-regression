@@ -47,7 +47,8 @@ This function maps any real-valued number into the range $(0, 1)$, making it ide
 3️⃣ **Set a Decision Threshold**:  
    If the probability is above a certain threshold (typically **0.5**), classify as **positive (1)**, otherwise classify as **negative (0)**:
 
-   $$ \hat{y} = \begin{cases} 1, & P(y=1 | x) \geq 0.5 \\ 0, & \text{otherwise} \end{cases} $$
+   $$ \hat{y} = \begin{cases} 1, & P(y=1 | x) \geq 0.5 \\ 
+             0, & \text{otherwise} \end{cases} $$
 
 ---
 
