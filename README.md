@@ -28,7 +28,7 @@ where:\
 
    $$ \sigma(z) = \frac{1}{1 + e^{-z}}. $$
 
-This function maps any real-valued number into the range \( (0,1) \), making it ideal for probability estimation.
+This function maps any real-valued number into the range $(0, 1)$, making it ideal for probability estimation.
 
 ---
 
@@ -40,7 +40,7 @@ This function maps any real-valued number into the range \( (0,1) \), making it 
    $$ z = w^T x + b. $$
 
 2️⃣ **Apply the Sigmoid Function**:  
-   Convert \( z \) into a probability:
+   Convert $z$ into a probability:
 
    $$ P(y=1 | x) = \frac{1}{1 + e^{-z}}. $$
 
@@ -53,18 +53,18 @@ This function maps any real-valued number into the range \( (0,1) \), making it 
 
 ## 🔢 Training Logistic Regression
 
-The goal is to find the **best parameters** \( w \) and \( b \) that minimize classification errors. This is done using:
+The goal is to find the **best parameters** $w$ and $b$ that minimize classification errors. This is done using:
 
 📌 **Loss Function (Log-Loss or Cross-Entropy)**:  
 
    $$ L = - \frac{1}{n} \sum_{i=1}^{n} \left[ y_i \log P(y_i | x_i) + (1 - y_i) \log (1 - P(y_i | x_i)) \right]. $$
 
 📌 **Optimization (Gradient Descent)**:  
-   The weights \( w \) are updated iteratively using:
+   The weights $w$ are updated iteratively using:
 
    $$ w := w - \alpha \frac{\partial L}{\partial w}, $$
 
-   where \( \alpha \) is the learning rate.
+   where $\alpha$ is the learning rate.
 
 ---
 
