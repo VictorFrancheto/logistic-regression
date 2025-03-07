@@ -2,7 +2,7 @@
 Repository aimed at explaining the mathematical concepts behind the logistic regression model.
 
 <p align="center">
-  <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/machine.JPG">
+  <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/image.JPG">
 </p>
 
 **Logistic Regression** is a fundamental algorithm for **binary classification**, widely used in machine learning and statistics. Despite its name, it is a **classification** algorithm, not a regression technique.
