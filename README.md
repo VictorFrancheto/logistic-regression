@@ -17,14 +17,14 @@ Let’s break it down step by step! 🚀
 
 Logistic Regression models the **probability** that a given input belongs to a particular class. Unlike linear regression, which predicts continuous values, logistic regression outputs probabilities and applies a threshold to classify observations.
 
-Mathematically, given an input feature vector \( x \), the model computes:
+Mathematically, given an input feature vector $x$, the model computes:
 
 $$ P(y=1 | x) = \sigma(w^T x + b), $$
 
 where:\
-✔ \( w \) = weight vector (learned parameters)\
-✔ \( b \) = bias term\
-✔ \( \sigma(z) \) = **sigmoid function**:
+✔ $w$ = weight vector (learned parameters)\
+✔ $b$ = bias term\
+✔ $\sigma(z)$ = **sigmoid function**:
 
    $$ \sigma(z) = \frac{1}{1 + e^{-z}}. $$
 
