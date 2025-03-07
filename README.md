@@ -5,8 +5,6 @@ Repository aimed at explaining the mathematical concepts behind the logistic reg
   <img src="https://github.com/VictorFrancheto/Mathematics_and_Machine_Learning/blob/main/machine.JPG">
 </p>
 
-# 📊 Logistic Regression: A Step-by-Step Guide
-
 **Logistic Regression** is a fundamental algorithm for **binary classification**, widely used in machine learning and statistics. Despite its name, it is a **classification** algorithm, not a regression technique.
 
 Let’s break it down step by step! 🚀
